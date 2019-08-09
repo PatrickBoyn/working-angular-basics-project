@@ -2,3 +2,9 @@
 body{
     text-align: center;
 }
+button{
+    margin-top: 13px;
+}
+p:first-child{
+    margin: 13px;
+}
